@@ -1,2 +1,2 @@
-# Descriptive-Statistics-Case-Study-Project
+# Descriptive_Statistics_Case_Study_Project
 Application of Univariate,bivariate Plots
